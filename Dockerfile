@@ -1,7 +1,4 @@
 FROM zaggash/docker-transmission:latest 
-
-MAINTAINER educatedwarrior
-
 LABEL org.freenas.interactive="false" \
 org.freenas.version="1" \
 org.freenas.upgradeable="true" \
